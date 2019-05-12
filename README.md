@@ -2,6 +2,9 @@
 Just another repository
 And this additional line
 
+Everybody will write something
+------------------------------
+
 MANIFESTO
 Secular Buddhism—sometimes also referred to as agnostic Buddhism, Buddhist agnosticism, ignostic Buddhism, atheistic Buddhism, pragmatic Buddhism, Buddhist atheism, or Buddhist secularism—is a broad term for an emerging form of Buddhism and secular spirituality that is based on humanist, skeptical, and/or agnostic values, as well as pragmatism and (often) naturalism, rather than religious (or more specifically supernatural or paranormal) beliefs.
 
